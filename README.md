@@ -62,6 +62,12 @@ This project demonstrates a complete 3D art pipeline workflow for beginners usin
 
 ---
 
+## 👨‍💻 Authors
+
+- Mohammed Soliman
+
+---
+
 ## 📚 References
 
 1. [CG Boost - Blender for Beginners Course](https://www.cgboost.com/courses/free-blender-beginners-course) by Zacharias Reinhardt
